@@ -1,18 +1,18 @@
 {
-  "name": "cls",
+  "name": "guiaperguntas",
   "version": "1.0.0",
-  "description": "\"Projeto criado para um sistema de perguntas e respostas\"",
+  "description": "Uma plataforma de perguntas e respostas.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "\"Oséias Medeiros\"",
+  "author": "Oséias Medeiros",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.19.0",
-    "ejs": "^3.0.2",
+    "ejs": "^2.7.1",
     "express": "^4.17.1",
-    "mysql2": "^2.1.0",
-    "sequelize": "^5.21.6"
+    "mysql2": "^1.7.0",
+    "sequelize": "^5.19.1"
   }
 }
